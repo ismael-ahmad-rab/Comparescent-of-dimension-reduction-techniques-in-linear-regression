@@ -4,6 +4,7 @@ We consider the following 3 regression techniques based on PCA, comparing them i
 - Principal Component Regression
 - Partial Least Squares Regression
 - Sparse Principal Component Regression
+
 The study places more emphasis on the last of these methods: Sparse Principal Component Regression
 
 
